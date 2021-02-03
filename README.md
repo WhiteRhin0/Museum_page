@@ -1,1 +1,1 @@
-[DEMO LINK](https://WhiteRhin0.github.io/Museum_page/)
+[DEMO LINK](https://whiterhin0.github.io/Museum_page/)
